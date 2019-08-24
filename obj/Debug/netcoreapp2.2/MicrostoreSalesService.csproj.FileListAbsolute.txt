@@ -1,0 +1,14 @@
+D:\NasrulDocument\Nasrul\NetCore\MicroStoreSales\MicrostoreSalesService\bin\Debug\netcoreapp2.2\MicrostoreSalesService.deps.json
+D:\NasrulDocument\Nasrul\NetCore\MicroStoreSales\MicrostoreSalesService\bin\Debug\netcoreapp2.2\MicrostoreSalesService.runtimeconfig.json
+D:\NasrulDocument\Nasrul\NetCore\MicroStoreSales\MicrostoreSalesService\bin\Debug\netcoreapp2.2\MicrostoreSalesService.runtimeconfig.dev.json
+D:\NasrulDocument\Nasrul\NetCore\MicroStoreSales\MicrostoreSalesService\bin\Debug\netcoreapp2.2\MicrostoreSalesService.dll
+D:\NasrulDocument\Nasrul\NetCore\MicroStoreSales\MicrostoreSalesService\bin\Debug\netcoreapp2.2\MicrostoreSalesService.pdb
+D:\NasrulDocument\Nasrul\NetCore\MicroStoreSales\MicrostoreSalesService\obj\Debug\netcoreapp2.2\MicrostoreSalesService.csprojAssemblyReference.cache
+D:\NasrulDocument\Nasrul\NetCore\MicroStoreSales\MicrostoreSalesService\obj\Debug\netcoreapp2.2\MicrostoreSalesService.csproj.CoreCompileInputs.cache
+D:\NasrulDocument\Nasrul\NetCore\MicroStoreSales\MicrostoreSalesService\obj\Debug\netcoreapp2.2\MicrostoreSalesService.RazorAssemblyInfo.cache
+D:\NasrulDocument\Nasrul\NetCore\MicroStoreSales\MicrostoreSalesService\obj\Debug\netcoreapp2.2\MicrostoreSalesService.RazorAssemblyInfo.cs
+D:\NasrulDocument\Nasrul\NetCore\MicroStoreSales\MicrostoreSalesService\obj\Debug\netcoreapp2.2\MicrostoreSalesService.AssemblyInfoInputs.cache
+D:\NasrulDocument\Nasrul\NetCore\MicroStoreSales\MicrostoreSalesService\obj\Debug\netcoreapp2.2\MicrostoreSalesService.AssemblyInfo.cs
+D:\NasrulDocument\Nasrul\NetCore\MicroStoreSales\MicrostoreSalesService\obj\Debug\netcoreapp2.2\MicrostoreSalesService.RazorTargetAssemblyInfo.cache
+D:\NasrulDocument\Nasrul\NetCore\MicroStoreSales\MicrostoreSalesService\obj\Debug\netcoreapp2.2\MicrostoreSalesService.dll
+D:\NasrulDocument\Nasrul\NetCore\MicroStoreSales\MicrostoreSalesService\obj\Debug\netcoreapp2.2\MicrostoreSalesService.pdb
